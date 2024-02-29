@@ -1,10 +1,10 @@
-<center>
-<img src="picture.jpg" src="emilia" />
+<p align="center">
+<img src="picture.jpg" src="emilia"/>
 
-<h3>Emilia AI - ChatGPT Bot Telegram</h3>
+<h3 align="center">Emilia AI - ChatGPT Bot Telegram</h3>
 
-<p>Ini adalah bot Telegram yang dibuat dengan ChatGPT dan Golang. Bot ini menggunakan model bahasa GPT-3 Turbo OpenAI untuk menghasilkan respons pesan pengguna secara real-time.</p>
-</center>
+<p align="center">Ini adalah bot Telegram yang dibuat dengan ChatGPT dan Golang. Bot ini menggunakan model bahasa GPT-3 Turbo OpenAI untuk menghasilkan respons pesan pengguna secara real-time.</p>
+</p>
 
 ## Prerequisites
 Untuk menjalankan bot ini, Anda harus memiliki perangkat lunak berikut yang terinstal di sistem Anda:
@@ -52,7 +52,7 @@ prompt membantu Anda menyesuaikan bagaimana bot akan bereaksi terhadap pesan
 Pertama, clone repositori ini:
 
 ```sh
-$ git clone github.com/rakarmp/emilia-bot.git
+$ git clone https://github.com/rakarmp/emilia-bot.git
 ```
 
 Lalu, arahkan ke direktori project:
