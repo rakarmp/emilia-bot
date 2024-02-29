@@ -35,7 +35,7 @@ OPENAI_TOKEN=""
 RETAIN_HISTORY="false"
 ```
 
-`RETAIN_HISTORY="true"` mengirimkan percakapan sebelumnya dengan teks saat ini, [lihat di sini] (https://platform.openai.com/docs/guides/chat/introduction), tetapi jika false, ini hanya mengirimkan prompt + teks pengguna saat ini, hal ini mengurangi jumlah token yang dikirim per permintaan.
+`RETAIN_HISTORY="true"` mengirimkan percakapan sebelumnya dengan teks saat ini, [lihat di sini](https://platform.openai.com/docs/guides/chat/introduction), tetapi jika false, ini hanya mengirimkan prompt + teks pengguna saat ini, hal ini mengurangi jumlah token yang dikirim per permintaan.
 
 membuat `prompt.txt` atau mengganti nama file contoh
 
